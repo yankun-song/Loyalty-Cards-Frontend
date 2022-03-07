@@ -63,3 +63,8 @@ We treat _App_ as the parent component, holding the _MainContainer_ and _Markets
 - **index.js**
 
 In this file, we wrap the App in the Provider Component and pass in the store. And render it so all the components will be visible.
+
+
+
+--------
+[Codesmith Tutorial](https://github.com/yankun-song/unit-7-react-redux)
