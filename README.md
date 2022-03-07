@@ -1,7 +1,11 @@
 # Loyalty-Cards-Frontend
 
+In this project, I built the frontend part for the loyalty cards system for a supermarket chain. The user can add new markets, and add/ delete membership cards for each market. 
+
+
 <img width="1861" alt="image" src="https://user-images.githubusercontent.com/43141076/156966434-b7f28bdb-6769-4805-b98b-dda9e5252839.png">
 
+**Tech Used: React, Redux**
 
 <img width="1190" alt="image" src="https://user-images.githubusercontent.com/43141076/156972875-70db3e04-b987-4c86-9f1b-648f67d91ef5.png">
 
