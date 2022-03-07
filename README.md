@@ -19,9 +19,11 @@ Under the **_client_** folder, we have the following parts:
     
 - **constants**
     - **actionTypes.js**
+    
     In this file, we convert each action name from string to a const variable
     
 - **containers**
+    
     A container can be treated as a larger component, which holds some small components. All the states and methods the small components need should be passed from the container to each component. 
     
     **_mapStateToProps_** is used to copy those properties from the store to the container.
